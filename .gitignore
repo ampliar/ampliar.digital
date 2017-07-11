@@ -28,6 +28,8 @@ Thumbs.db
 .sass-cache/
 *.css.map
 
+# Extra files #
+######################
 .jekyll-metadata
 _site/
 .vscode/
