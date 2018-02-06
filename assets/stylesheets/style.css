@@ -1,0 +1,33 @@
+html, body {
+  font-family: Raleway, Arial, Helvetica, sans-serif; }
+
+#ampliar-bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%; }
+
+.description {
+  color: #f1f1f1;
+  margin: 0 auto;
+  padding: 3em;
+  position: relative;
+  top: 5em;
+  width: 50%; }
+  @media screen and (max-width: 420px) {
+    .description {
+      padding: 1em;
+      width: 100%; } }
+  .description img {
+    display: block;
+    margin: 0 auto;
+    height: 4em; }
+    @media screen and (max-width: 420px) {
+      .description img {
+        width: 100%; } }
+  .description p {
+    font-size: 1.5em;
+    text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
